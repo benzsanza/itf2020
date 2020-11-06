@@ -7,7 +7,7 @@
     <div class="row">
         <div class="col-4">
             <div class="card">
-                <img class="card-img-top" src="img/5.jpg" >
+                <img class="card-img-top" src="5.jpg" >
                 <div class="card-body">
                     <h4 class="card-title">Fate Grand Order</h4>
                     <p class="card-text">ภาคที่นิยมมากที่สุดของ Fate และมีเกมออกมา !<p>
@@ -19,7 +19,7 @@
         </div>
         <div class="col-4">
             <div class="card">
-                <img class="card-img-top" src="img/4.jpg" >
+                <img class="card-img-top" src="4.jpg" >
                 <div class="card-body">
                     <h4 class="card-title">Fate stay night Unlimater blane world</h4>
                     <p class="card-text">เป็น Fate ที่ผมชอบมากสุด</p>
@@ -31,7 +31,7 @@
         </div>
         <div class="col-4">
             <div class="card">
-                <img class="card-img-top" src="img/2.jpg" >
+                <img class="card-img-top" src="2.jpg" >
                 <div class="card-body">
                     <h4 class="card-title">Fate stay night night heaven's feel</h4>
                     <p class="card-text">ภาคเดอะมูฟวี่ Fate stay night ที่พึ่งฉายในไทย</p>
